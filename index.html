@@ -2,15 +2,15 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Kanji Boost</title>
-  <link rel="stylesheet" href="css/style.css" />
   <link rel="manifest" href="manifest.json" />
+  <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
   <header>
     <h1>Kanji Boost</h1>
-    <button id="statsBtn">Statistiques</button>
+    <button id="statsBtn">📊 Statistiques</button>
   </header>
   <section id="controls">
     <select id="categorySelect"><option>Toutes les catégories</option></select>
@@ -20,29 +20,37 @@
       <option value="jp-kanji">JP → Kanji</option>
       <option value="kanji-fr">Kanji → FR</option>
     </select>
-    <input type="number" id="cardCount" placeholder="Nb de cartes" />
+    <input type="number" id="cardCount" placeholder="Nb cartes" min="1" />
     <button id="startBtn">Démarrer</button>
   </section>
   <main>
     <div class="flashcard-container">
       <div class="flashcard" id="flashcard">
-        <div class="front">Question</div>
-        <div class="back">Réponse</div>
+        <div class="front">
+          <div class="question" id="questionText">Question</div>
+        </div>
+        <div class="back">
+          <div class="answer" id="answerText">Réponse</div>
+        </div>
       </div>
       <button id="flipBtn">Retourne la carte</button>
-      <div class="actions">
-        <button id="knowBtn">✔️ Je savais</button>
-        <button id="reviewBtn">✖️ À revoir</button>
-        <button id="shuffleBtn">↻ Mélanger</button>
-      </div>
-      <div class="canvas-area">
-        <label>Écris ta réponse :</label>
-        <canvas id="drawCanvas" width="300" height="150"></canvas>
-        <button id="clearCanvas">Effacer</button>
-        <label><input type="checkbox" id="kanjiFocus"> Kanji à connaître</label>
-      </div>
+    </div>
+    <div class="actions">
+      <button id="knewBtn">✔️ Je savais</button>
+      <button id="againBtn">✖️ À revoir</button>
+      <button id="shuffleBtn">↻ Mélanger</button>
+    </div>
+    <div class="canvas-area">
+      <label for="canvas">✍️ Écris ta réponse :</label>
+      <canvas id="canvas" width="300" height="150"></canvas>
+      <button id="clearCanvas">Effacer</button>
+    </div>
+    <div class="kanji-flag">
+      <input type="checkbox" id="kanjiFocus" />
+      <label for="kanjiFocus">Kanji à connaître</label>
     </div>
   </main>
+  <script src="js/data.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>

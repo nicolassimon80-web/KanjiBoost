@@ -11,9 +11,44 @@
       "fr": "aller"
     },
     {
+      "hiragana": "かいます",
+      "kanji": "買います",
+      "fr": "acheter"
+    },
+    {
       "hiragana": "みます",
       "kanji": "見ます",
       "fr": "voir"
+    },
+    {
+      "hiragana": "よみます",
+      "kanji": "読みます",
+      "fr": "lire"
+    },
+    {
+      "hiragana": "あそびます",
+      "kanji": "遊びます",
+      "fr": "jouer"
+    },
+    {
+      "hiragana": "おきます",
+      "kanji": "起きます",
+      "fr": "se réveiller"
+    },
+    {
+      "hiragana": "きます",
+      "kanji": "来ます",
+      "fr": "venir"
+    },
+    {
+      "hiragana": "かえります",
+      "kanji": "帰ります",
+      "fr": "rentrer"
+    },
+    {
+      "hiragana": "つくります",
+      "kanji": "作ります",
+      "fr": "préparer"
     }
   ],
   "Adjectifs": [
@@ -31,6 +66,41 @@
       "hiragana": "ちいさい",
       "kanji": "小さい",
       "fr": "petit"
+    },
+    {
+      "hiragana": "おおきい",
+      "kanji": "大きい",
+      "fr": "grand"
+    },
+    {
+      "hiragana": "ふるい",
+      "kanji": "古い",
+      "fr": "ancien"
+    },
+    {
+      "hiragana": "にぎやか",
+      "kanji": "賑やか",
+      "fr": "animé"
+    },
+    {
+      "hiragana": "あたらしい",
+      "kanji": "新しい",
+      "fr": "nouveau, neuf"
+    },
+    {
+      "hiragana": "やすい",
+      "kanji": "安い",
+      "fr": "bon marché"
+    },
+    {
+      "hiragana": "たかい",
+      "kanji": "高い",
+      "fr": "haut"
+    },
+    {
+      "hiragana": "べんり",
+      "kanji": "便利",
+      "fr": "pratique"
     }
   ],
   "Nom de Lieux": [
@@ -45,9 +115,44 @@
       "fr": "escalier"
     },
     {
+      "hiragana": "じはんき",
+      "kanji": "自販機",
+      "fr": "distributeur"
+    },
+    {
       "hiragana": "でぐち",
       "kanji": "出口",
       "fr": "sortie"
+    },
+    {
+      "hiragana": "いりぐち",
+      "kanji": "入口",
+      "fr": "entrée"
+    },
+    {
+      "hiragana": "のりかえ",
+      "kanji": "乗り換え",
+      "fr": "correspondance"
+    },
+    {
+      "hiragana": "かいさつ",
+      "kanji": "改札",
+      "fr": "portillon d'accès"
+    },
+    {
+      "hiragana": "ちか",
+      "kanji": "地下",
+      "fr": "sous-sol"
+    },
+    {
+      "hiragana": "ホーム",
+      "kanji": "ホーム",
+      "fr": "le quai"
+    },
+    {
+      "hiragana": "うみ",
+      "kanji": "海",
+      "fr": "mer"
     }
   ],
   "Mots divers": [
@@ -62,9 +167,44 @@
       "fr": "magazine"
     },
     {
+      "hiragana": "けいさつ",
+      "kanji": "警察",
+      "fr": "police"
+    },
+    {
       "hiragana": "くすり",
       "kanji": "薬",
       "fr": "médicament"
+    },
+    {
+      "hiragana": "しゃしん",
+      "kanji": "写真",
+      "fr": "photo"
+    },
+    {
+      "hiragana": "どうぶつ",
+      "kanji": "動物",
+      "fr": "animal"
+    },
+    {
+      "hiragana": "ぶんか",
+      "kanji": "文化",
+      "fr": "culture"
+    },
+    {
+      "hiragana": "パソコン",
+      "kanji": "パソコン",
+      "fr": "ordinateur"
+    },
+    {
+      "hiragana": "じこ",
+      "kanji": "事故",
+      "fr": "accident"
+    },
+    {
+      "hiragana": "くるま",
+      "kanji": "車",
+      "fr": "voiture"
     }
   ]
 }
