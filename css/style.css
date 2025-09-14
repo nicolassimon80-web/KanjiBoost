@@ -1,1 +1,76 @@
-body { font-family: sans-serif; padding: 20px; }
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+}
+header {
+  background: #222;
+  color: white;
+  padding: 1em;
+}
+.controls {
+  display: flex;
+  gap: 0.5em;
+  flex-wrap: wrap;
+}
+main {
+  padding: 1em;
+}
+.card {
+  background: white;
+  border-radius: 8px;
+  padding: 1em;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.card.hidden {
+  display: none;
+}
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1em;
+}
+.badge {
+  padding: 0.2em 0.5em;
+  border-radius: 4px;
+  color: white;
+}
+.badge.Verbes { background: green; }
+.badge.Adjectifs { background: gray; }
+.badge["Nom de Lieux"] { background: red; }
+.badge["Mots divers"] { background: skyblue; }
+.card-content {
+  font-size: 1.5em;
+  text-align: center;
+}
+.card-actions {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  margin-top: 1em;
+}
+#kanjiCanvasContainer {
+  margin-top: 1em;
+  text-align: center;
+}
+footer {
+  text-align: center;
+  padding: 1em;
+}
+.modal {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.5);
+}
+.modal-content {
+  background: white;
+  margin: 10% auto;
+  padding: 1em;
+  width: 80%;
+  max-width: 400px;
+}
+.hidden {
+  display: none;
+}
