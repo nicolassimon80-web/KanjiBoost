@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kanji Boost</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="js/app.js" defer></script>
+</head>
+<body>
+  <header>
+    <h1>Kanji Boost</h1>
+    <div id="controls">
+      <select id="categorySelect">
+        <option value="all">Toutes les catégories</option>
+        <option value="Verbes">Verbes</option>
+        <option value="Adjectifs">Adjectifs</option>
+        <option value="Nom de Lieux">Nom de Lieux</option>
+        <option value="Mots divers">Mots divers</option>
+      </select>
+      <select id="modeSelect">
+        <option value="jpfr">JP ⇄ FR</option>
+        <option value="frkanji">FR → Kanji</option>
+        <option value="kanjifr">Kanji → FR</option>
+        <option value="kanjimix">Kanji Mix</option>
+      </select>
+      <input type="number" id="cardLimit" placeholder="Nb de cartes" min="1" />
+      <button id="startBtn">Démarrer</button>
+    </div>
+  </header>
+  <main>
+    <div id="cardContainer">
+      <div id="card" class="card">
+        <div id="categoryBadge"></div>
+        <div id="question"></div>
+        <div id="subQuestion"></div>
+        <button id="toggleAnswerBtn">Afficher / Cacher</button>
+        <div id="answer" style="display:none;"></div>
+        <div id="kanjiCheckboxContainer">
+          <label><input type="checkbox" id="kanjiCheckbox" /> Kanji à connaître</label>
+        </div>
+        <div id="canvasContainer">
+          <canvas id="drawCanvas" width="300" height="150" style="border:1px solid #ccc;"></canvas>
+        </div>
+        <div id="cardActions">
+          <button id="knownBtn">✔️ Je savais</button>
+          <button id="reviewBtn">✖️ À revoir</button>
+        </div>
+        <div id="progress"></div>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <button id="statsBtn">📊 Statistiques</button>
+    <div id="statsPanel" style="display:none;"></div>
+  </footer>
+</body>
+</html>
