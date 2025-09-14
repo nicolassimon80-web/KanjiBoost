@@ -1,0 +1,458 @@
+{
+  "Verbes": [
+    {
+      "hiragana": "はなします",
+      "kanji": "話します",
+      "fr": "parler"
+    },
+    {
+      "hiragana": "たべます",
+      "kanji": "食べます",
+      "fr": "manger"
+    },
+    {
+      "hiragana": "でかけます",
+      "kanji": "出かけます",
+      "fr": "sortir"
+    },
+    {
+      "hiragana": "およぎます",
+      "kanji": "泳ぎます",
+      "fr": "nager"
+    },
+    {
+      "hiragana": "はしります",
+      "kanji": "走ります",
+      "fr": "courir"
+    },
+    {
+      "hiragana": "みます",
+      "kanji": "見ます",
+      "fr": "voir"
+    },
+    {
+      "hiragana": "よみます",
+      "kanji": "読みます",
+      "fr": "lire"
+    },
+    {
+      "hiragana": "あそびます",
+      "kanji": "遊びます",
+      "fr": "jouer"
+    },
+    {
+      "hiragana": "といいます",
+      "kanji": "と言います",
+      "fr": "s'appeler"
+    },
+    {
+      "hiragana": "おきます",
+      "kanji": "起きます",
+      "fr": "se réveiller"
+    },
+    {
+      "hiragana": "いきます",
+      "kanji": "行きます",
+      "fr": "aller"
+    },
+    {
+      "hiragana": "あきます",
+      "kanji": "開きます",
+      "fr": "ouvrir (magasin)"
+    },
+    {
+      "hiragana": "かいます",
+      "kanji": "買います",
+      "fr": "acheter"
+    },
+    {
+      "hiragana": "きます",
+      "kanji": "来ます",
+      "fr": "venir"
+    },
+    {
+      "hiragana": "ひっこします",
+      "kanji": "引っ越します",
+      "fr": "déménager"
+    },
+    {
+      "hiragana": "やすみます",
+      "kanji": "休みます",
+      "fr": "se reposer"
+    },
+    {
+      "hiragana": "すわります",
+      "kanji": "座ります",
+      "fr": "s'asseoir"
+    },
+    {
+      "hiragana": "のみます",
+      "kanji": "飲みます",
+      "fr": "boire"
+    },
+    {
+      "hiragana": "よやくします",
+      "kanji": "予約します",
+      "fr": "réserver"
+    },
+    {
+      "hiragana": "あいます",
+      "kanji": "会います",
+      "fr": "rencontrer"
+    },
+    {
+      "hiragana": "かえります",
+      "kanji": "帰ります",
+      "fr": "rentrer"
+    },
+    {
+      "hiragana": "つくります",
+      "kanji": "作ります",
+      "fr": "préparer"
+    },
+    {
+      "hiragana": "あるきます",
+      "kanji": "歩きます",
+      "fr": "marcher"
+    },
+    {
+      "hiragana": "うんどうします",
+      "kanji": "運動します",
+      "fr": "faire de l’exercice"
+    },
+    {
+      "hiragana": "ききます",
+      "kanji": "聞きます",
+      "fr": "demander"
+    },
+    {
+      "hiragana": "はじまります",
+      "kanji": "始まります",
+      "fr": "commencer"
+    },
+    {
+      "hiragana": "かきます",
+      "kanji": "書きます",
+      "fr": "écrire"
+    },
+    {
+      "hiragana": "あがります",
+      "kanji": "上がります",
+      "fr": "monter l’escalier"
+    },
+    {
+      "hiragana": "とまります",
+      "kanji": "泊まります",
+      "fr": "passer la nuit"
+    },
+    {
+      "hiragana": "つかいます",
+      "kanji": "使います",
+      "fr": "utiliser"
+    },
+    {
+      "hiragana": "でます",
+      "kanji": "出ます",
+      "fr": "quitter"
+    },
+    {
+      "hiragana": "のります",
+      "kanji": "乗ります",
+      "fr": "monter à bord"
+    },
+    {
+      "hiragana": "おくります",
+      "kanji": "送ります",
+      "fr": "envoyer (message)"
+    },
+    {
+      "hiragana": "つきます",
+      "kanji": "着きます",
+      "fr": "arriver"
+    },
+    {
+      "hiragana": "おくれます",
+      "kanji": "遅れます",
+      "fr": "être en retard"
+    },
+    {
+      "hiragana": "いそぎます",
+      "kanji": "急ぎます",
+      "fr": "se dépêcher"
+    }
+  ],
+  "Adjectifs": [
+    {
+      "hiragana": "あかるい",
+      "kanji": "明るい",
+      "fr": "joyeux, lumineux"
+    },
+    {
+      "hiragana": "しずか",
+      "kanji": "静か",
+      "fr": "calme"
+    },
+    {
+      "hiragana": "ちいさい",
+      "kanji": "小さい",
+      "fr": "petit"
+    },
+    {
+      "hiragana": "おおきい",
+      "kanji": "大きい",
+      "fr": "grand"
+    },
+    {
+      "hiragana": "ふるい",
+      "kanji": "古い",
+      "fr": "ancien"
+    },
+    {
+      "hiragana": "とおい",
+      "kanji": "遠い",
+      "fr": "loin"
+    },
+    {
+      "hiragana": "ちかい",
+      "kanji": "近い",
+      "fr": "proche"
+    },
+    {
+      "hiragana": "にぎやか",
+      "kanji": "賑やか",
+      "fr": "animé"
+    },
+    {
+      "hiragana": "せまい",
+      "kanji": "狭い",
+      "fr": "étroit"
+    },
+    {
+      "hiragana": "ひろい",
+      "kanji": "広い",
+      "fr": "spacieux, large"
+    },
+    {
+      "hiragana": "あたらしい",
+      "kanji": "新しい",
+      "fr": "nouveau, neuf"
+    },
+    {
+      "hiragana": "やすい",
+      "kanji": "安い",
+      "fr": "bon marché"
+    },
+    {
+      "hiragana": "はやい",
+      "kanji": "速い",
+      "fr": "rapide"
+    },
+    {
+      "hiragana": "あぶない",
+      "kanji": "危ない",
+      "fr": "dangereux"
+    },
+    {
+      "hiragana": "ゆうめい",
+      "kanji": "有名",
+      "fr": "célèbre"
+    },
+    {
+      "hiragana": "たかい",
+      "kanji": "高い",
+      "fr": "haut"
+    },
+    {
+      "hiragana": "むりょう",
+      "kanji": "無料",
+      "fr": "gratuit"
+    },
+    {
+      "hiragana": "いそがしい",
+      "kanji": "忙しい",
+      "fr": "occupé"
+    },
+    {
+      "hiragana": "ひま",
+      "kanji": "暇",
+      "fr": "libre"
+    },
+    {
+      "hiragana": "すてき",
+      "kanji": "素敵",
+      "fr": "charmant"
+    },
+    {
+      "hiragana": "おしゃれ",
+      "kanji": "お洒落",
+      "fr": "élégant"
+    },
+    {
+      "hiragana": "しょっぱい",
+      "kanji": "",
+      "fr": "salé"
+    },
+    {
+      "hiragana": "あまい",
+      "kanji": "甘い",
+      "fr": "sucré"
+    },
+    {
+      "hiragana": "あたたかい",
+      "kanji": "暖かい",
+      "fr": "doux"
+    },
+    {
+      "hiragana": "けんこうてき",
+      "kanji": "健康的",
+      "fr": "sain"
+    },
+    {
+      "hiragana": "たいへん",
+      "kanji": "大変",
+      "fr": "difficile, pénible"
+    },
+    {
+      "hiragana": "むずかしい",
+      "kanji": "難しい",
+      "fr": "difficile, compliqué"
+    },
+    {
+      "hiragana": "ながい",
+      "kanji": "長い",
+      "fr": "long"
+    },
+    {
+      "hiragana": "おそい",
+      "kanji": "遅い",
+      "fr": "lent ou en retard"
+    },
+    {
+      "hiragana": "にんき",
+      "kanji": "人気",
+      "fr": "populaire"
+    },
+    {
+      "hiragana": "カラフル",
+      "kanji": "",
+      "fr": "coloré"
+    },
+    {
+      "hiragana": "べんり",
+      "kanji": "便利",
+      "fr": "pratique"
+    },
+    {
+      "hiragana": "かるい",
+      "kanji": "軽い",
+      "fr": "léger"
+    },
+    {
+      "hiragana": "くらい",
+      "kanji": "暗い",
+      "fr": "sombre"
+    },
+    {
+      "hiragana": "きたない",
+      "kanji": "汚い",
+      "fr": "sale"
+    },
+    {
+      "hiragana": "あんぜん",
+      "kanji": "安全",
+      "fr": "sûr"
+    },
+    {
+      "hiragana": "しんせつ",
+      "kanji": "親切",
+      "fr": "gentil"
+    },
+    {
+      "hiragana": "まじめ",
+      "kanji": "真面目",
+      "fr": "sérieux"
+    },
+    {
+      "hiragana": "まずい",
+      "kanji": "不味い",
+      "fr": "mauvais"
+    },
+    {
+      "hiragana": "りっぱ",
+      "kanji": "立派",
+      "fr": "splendide"
+    },
+    {
+      "hiragana": "しんせん",
+      "kanji": "新鮮",
+      "fr": "frais"
+    },
+    {
+      "hiragana": "きせつ",
+      "kanji": "季節",
+      "fr": "de saison"
+    },
+    {
+      "hiragana": "にがい",
+      "kanji": "苦い",
+      "fr": "amer"
+    },
+    {
+      "hiragana": "ぬるい",
+      "kanji": "温い",
+      "fr": "tiède"
+    },
+    {
+      "hiragana": "うすい",
+      "kanji": "薄い",
+      "fr": "fin"
+    },
+    {
+      "hiragana": "さいあく",
+      "kanji": "最悪",
+      "fr": "le pire"
+    },
+    {
+      "hiragana": "かたい",
+      "kanji": "硬い",
+      "fr": "dur"
+    },
+    {
+      "hiragana": "ダサい",
+      "kanji": "",
+      "fr": "ringard"
+    },
+    {
+      "hiragana": "ひくい",
+      "kanji": "低い",
+      "fr": "bas"
+    },
+    {
+      "hiragana": "ひどい",
+      "kanji": "酷い",
+      "fr": "terrible"
+    },
+    {
+      "hiragana": "つまらない",
+      "kanji": "",
+      "fr": "ennuyant"
+    },
+    {
+      "hiragana": "さいこう",
+      "kanji": "最高",
+      "fr": "excellent"
+    },
+    {
+      "hiragana": "みじかい",
+      "kanji": "短い",
+      "fr": "court"
+    },
+    {
+      "hiragana": "やわらかい",
+      "kanji": "柔らかい",
+      "fr": "doux"
+    }
+  ],
+  "Nom de Lieux": [],
+  "Mots divers": []
+}

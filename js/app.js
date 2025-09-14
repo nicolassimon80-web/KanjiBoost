@@ -1,3 +1,1 @@
-document.getElementById('startBtn').addEventListener('click', () => {
-  alert('Démarrage des flashcards...');
-});
+console.log("Kanji Boost app loaded");
