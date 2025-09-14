@@ -1,18 +1,20 @@
-self.addEventListener("install", e => {
+self.addEventListener('install', function(e) {
   e.waitUntil(
-    caches.open("kanji-boost").then(cache => {
+    caches.open('kanji-boost').then(function(cache) {
       return cache.addAll([
-        "index.html",
-        "css/style.css",
-        "js/app.js",
-        "js/data.js",
-        "manifest.json"
+        '/',
+        '/index.html',
+        '/css/style.css',
+        '/js/app.js',
+        '/js/data.json'
       ]);
     })
   );
 });
-self.addEventListener("fetch", e => {
+self.addEventListener('fetch', function(e) {
   e.respondWith(
-    caches.match(e.request).then(response => response || fetch(e.request))
+    caches.match(e.request).then(function(response) {
+      return response || fetch(e.request);
+    })
   );
 });

@@ -1,76 +1,42 @@
 body {
+  background-color: #121212;
+  color: #ffffff;
   font-family: sans-serif;
-  margin: 0;
-  padding: 0;
-  background: #f4f4f4;
 }
-header {
-  background: #222;
-  color: white;
-  padding: 1em;
+header, #controls, .flashcard-container {
+  margin: 1em;
 }
-.controls {
-  display: flex;
-  gap: 0.5em;
-  flex-wrap: wrap;
-}
-main {
-  padding: 1em;
-}
-.card {
-  background: white;
-  border-radius: 8px;
-  padding: 1em;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
-.card.hidden {
-  display: none;
-}
-.card-header {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 1em;
-}
-.badge {
-  padding: 0.2em 0.5em;
-  border-radius: 4px;
-  color: white;
-}
-.badge.Verbes { background: green; }
-.badge.Adjectifs { background: gray; }
-.badge["Nom de Lieux"] { background: red; }
-.badge["Mots divers"] { background: skyblue; }
-.card-content {
-  font-size: 1.5em;
+.flashcard-container {
   text-align: center;
 }
-.card-actions {
+.flashcard {
+  width: 300px;
+  height: 150px;
+  margin: auto;
+  perspective: 1000px;
+}
+.flashcard .front, .flashcard .back {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  backface-visibility: hidden;
   display: flex;
+  align-items: center;
   justify-content: center;
-  gap: 1em;
-  margin-top: 1em;
+  font-size: 1.2em;
+  border: 1px solid #fff;
+  border-radius: 8px;
 }
-#kanjiCanvasContainer {
-  margin-top: 1em;
-  text-align: center;
+.flashcard .back {
+  transform: rotateY(180deg);
 }
-footer {
-  text-align: center;
-  padding: 1em;
+.flashcard.flip .front {
+  transform: rotateY(180deg);
 }
-.modal {
-  position: fixed;
-  top: 0; left: 0;
-  width: 100%; height: 100%;
-  background: rgba(0,0,0,0.5);
+.flashcard.flip .back {
+  transform: rotateY(0deg);
 }
-.modal-content {
-  background: white;
-  margin: 10% auto;
-  padding: 1em;
-  width: 80%;
-  max-width: 400px;
-}
-.hidden {
-  display: none;
+canvas {
+  background-color: #fff;
+  border: 1px solid #ccc;
 }

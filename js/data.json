@@ -1,54 +1,9 @@
 {
   "Verbes": [
     {
-      "hiragana": "はなします",
-      "kanji": "話します",
-      "fr": "parler"
-    },
-    {
       "hiragana": "たべます",
       "kanji": "食べます",
       "fr": "manger"
-    },
-    {
-      "hiragana": "でかけます",
-      "kanji": "出かけます",
-      "fr": "sortir"
-    },
-    {
-      "hiragana": "およぎます",
-      "kanji": "泳ぎます",
-      "fr": "nager"
-    },
-    {
-      "hiragana": "はしります",
-      "kanji": "走ります",
-      "fr": "courir"
-    },
-    {
-      "hiragana": "みます",
-      "kanji": "見ます",
-      "fr": "voir"
-    },
-    {
-      "hiragana": "よみます",
-      "kanji": "読みます",
-      "fr": "lire"
-    },
-    {
-      "hiragana": "あそびます",
-      "kanji": "遊びます",
-      "fr": "jouer"
-    },
-    {
-      "hiragana": "といいます",
-      "kanji": "と言います",
-      "fr": "s'appeler"
-    },
-    {
-      "hiragana": "おきます",
-      "kanji": "起きます",
-      "fr": "se réveiller"
     },
     {
       "hiragana": "いきます",
@@ -56,304 +11,60 @@
       "fr": "aller"
     },
     {
-      "hiragana": "あきます",
-      "kanji": "開きます",
-      "fr": "ouvrir (magasin)"
+      "hiragana": "みます",
+      "kanji": "見ます",
+      "fr": "voir"
+    }
+  ],
+  "Adjectifs": [
+    {
+      "hiragana": "あかるい",
+      "kanji": "明るい",
+      "fr": "joyeux, lumineux"
     },
     {
-      "hiragana": "かいます",
-      "kanji": "買います",
-      "fr": "acheter"
+      "hiragana": "しずか",
+      "kanji": "静か",
+      "fr": "calme"
     },
     {
-      "hiragana": "きます",
-      "kanji": "来ます",
-      "fr": "venir"
+      "hiragana": "ちいさい",
+      "kanji": "小さい",
+      "fr": "petit"
+    }
+  ],
+  "Nom de Lieux": [
+    {
+      "hiragana": "おてあらい",
+      "kanji": "お手洗い",
+      "fr": "toilettes"
     },
     {
-      "hiragana": "ひっこします",
-      "kanji": "引っ越します",
-      "fr": "déménager"
+      "hiragana": "かいだん",
+      "kanji": "階段",
+      "fr": "escalier"
     },
     {
-      "hiragana": "やすみます",
-      "kanji": "休みます",
-      "fr": "se reposer"
+      "hiragana": "でぐち",
+      "kanji": "出口",
+      "fr": "sortie"
+    }
+  ],
+  "Mots divers": [
+    {
+      "hiragana": "わたし",
+      "kanji": "私",
+      "fr": "moi, je"
     },
     {
-      "hiragana": "すわります",
-      "kanji": "座ります",
-      "fr": "s'asseoir"
+      "hiragana": "ざっし",
+      "kanji": "雑誌",
+      "fr": "magazine"
     },
     {
-      "hiragana": "のみます",
-      "kanji": "飲みます",
-      "fr": "boire"
-    },
-    {
-      "hiragana": "よやくします",
-      "kanji": "予約します",
-      "fr": "réserver"
-    },
-    {
-      "hiragana": "あいます",
-      "kanji": "会います",
-      "fr": "rencontrer"
-    },
-    {
-      "hiragana": "かえります",
-      "kanji": "帰ります",
-      "fr": "rentrer"
-    },
-    {
-      "hiragana": "つくります",
-      "kanji": "作ります",
-      "fr": "préparer"
-    },
-    {
-      "hiragana": "あるきます",
-      "kanji": "歩きます",
-      "fr": "marcher"
-    },
-    {
-      "hiragana": "うんどうします",
-      "kanji": "運動します",
-      "fr": "faire de l’exercice"
-    },
-    {
-      "hiragana": "ききます",
-      "kanji": "聞きます",
-      "fr": "demander"
-    },
-    {
-      "hiragana": "はじまります",
-      "kanji": "始まります",
-      "fr": "commencer"
-    },
-    {
-      "hiragana": "かきます",
-      "kanji": "書きます",
-      "fr": "écrire"
-    },
-    {
-      "hiragana": "あがります",
-      "kanji": "上がります",
-      "fr": "monter l’escalier"
-    },
-    {
-      "hiragana": "とまります",
-      "kanji": "泊まります",
-      "fr": "passer la nuit"
-    },
-    {
-      "hiragana": "つかいます",
-      "kanji": "使います",
-      "fr": "utiliser"
-    },
-    {
-      "hiragana": "でます",
-      "kanji": "出ます",
-      "fr": "quitter"
-    },
-    {
-      "hiragana": "のります",
-      "kanji": "乗ります",
-      "fr": "monter à bord"
-    },
-    {
-      "hiragana": "おくります",
-      "kanji": "送ります",
-      "fr": "envoyer (message)"
-    },
-    {
-      "hiragana": "つきます",
-      "kanji": "着きます",
-      "fr": "arriver"
-    },
-    {
-      "hiragana": "おくれます",
-      "kanji": "遅れます",
-      "fr": "être en retard"
-    },
-    {
-      "hiragana": "いそぎます",
-      "kanji": "急ぎます",
-      "fr": "se dépêcher"
-    },
-    {
-      "hiragana": "すいます",
-      "kanji": "吸います",
-      "fr": "fumer"
-    },
-    {
-      "hiragana": "ねます",
-      "kanji": "寝ます",
-      "fr": "dormir"
-    },
-    {
-      "hiragana": "つかれます",
-      "kanji": "疲れます",
-      "fr": "être fatigué"
-    },
-    {
-      "hiragana": "おどります",
-      "kanji": "踊ります",
-      "fr": "danser"
-    },
-    {
-      "hiragana": "よやくをいれます",
-      "kanji": "予約を入れます",
-      "fr": "prendre rdv"
-    },
-    {
-      "hiragana": "なでます",
-      "kanji": "撫でます",
-      "fr": "caresser"
-    },
-    {
-      "hiragana": "とります",
-      "kanji": "撮ります",
-      "fr": "prendre une photo"
-    },
-    {
-      "hiragana": "みつけます",
-      "kanji": "見つけます",
-      "fr": "trouver"
-    },
-    {
-      "hiragana": "ひかります",
-      "kanji": "光ります",
-      "fr": "briller"
-    },
-    {
-      "hiragana": "さがします",
-      "kanji": "探します",
-      "fr": "chercher"
-    },
-    {
-      "hiragana": "もどります",
-      "kanji": "戻ります",
-      "fr": "retourner quelque part"
-    },
-    {
-      "hiragana": "あらいます",
-      "kanji": "洗います",
-      "fr": "laver (les mains)"
-    },
-    {
-      "hiragana": "ならびます",
-      "kanji": "並びます",
-      "fr": "faire la queue"
-    },
-    {
-      "hiragana": "わたります",
-      "kanji": "渡ります",
-      "fr": "traverser"
-    },
-    {
-      "hiragana": "さきます",
-      "kanji": "咲きます",
-      "fr": "fleurir"
-    },
-    {
-      "hiragana": "やめます",
-      "kanji": "辞めます",
-      "fr": "démissionner"
-    },
-    {
-      "hiragana": "こわれます",
-      "kanji": "壊れます",
-      "fr": "tomber en panne"
-    },
-    {
-      "hiragana": "おこります",
-      "kanji": "怒ります",
-      "fr": "être en colère"
-    },
-    {
-      "hiragana": "しょうかいします",
-      "kanji": "紹介します",
-      "fr": "présenter"
-    },
-    {
-      "hiragana": "わすれます",
-      "kanji": "忘れます",
-      "fr": "oublier"
-    },
-    {
-      "hiragana": "しらべます",
-      "kanji": "調べます",
-      "fr": "enquêter"
-    },
-    {
-      "hiragana": "はらいます",
-      "kanji": "払います",
-      "fr": "payer"
-    },
-    {
-      "hiragana": "まわります",
-      "kanji": "回ります",
-      "fr": "parcourir"
-    },
-    {
-      "hiragana": "ぬぎます",
-      "kanji": "脱ぎます",
-      "fr": "enlever (ses chaussures)"
-    },
-    {
-      "hiragana": "ちゅうもんします",
-      "kanji": "注文します",
-      "fr": "commander"
-    },
-    {
-      "hiragana": "あけます",
-      "kanji": "開けます",
-      "fr": "ouvrir (fenêtre)"
-    },
-    {
-      "hiragana": "かります",
-      "kanji": "借ります",
-      "fr": "emprunter"
-    },
-    {
-      "hiragana": "はきます",
-      "kanji": "履きます",
-      "fr": "enfiler"
-    },
-    {
-      "hiragana": "にいいます",
-      "kanji": "に言います",
-      "fr": "dire"
-    },
-    {
-      "hiragana": "けんかします",
-      "kanji": "喧嘩します",
-      "fr": "se disputer"
-    },
-    {
-      "hiragana": "わかれます",
-      "kanji": "別れます",
-      "fr": "rompre"
-    },
-    {
-      "hiragana": "はいります",
-      "kanji": "入ります",
-      "fr": "se joindre à"
-    },
-    {
-      "hiragana": "あいさつします",
-      "kanji": "挨拶します",
-      "fr": "saluer"
-    },
-    {
-      "hiragana": "かんどうします",
-      "kanji": "感動します",
-      "fr": "être ému"
-    },
-    {
-      "hiragana": "なきます",
-      "kanji": "泣きます",
-      "fr": "pleurer"
+      "hiragana": "くすり",
+      "kanji": "薬",
+      "fr": "médicament"
     }
   ]
 }
